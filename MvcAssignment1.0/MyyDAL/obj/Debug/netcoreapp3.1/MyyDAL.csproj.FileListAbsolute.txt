@@ -1,0 +1,16 @@
+C:\c_sharp\MvcAssignment1.0\MyyDAL\bin\Debug\netcoreapp3.1\MyyDAL.deps.json
+C:\c_sharp\MvcAssignment1.0\MyyDAL\bin\Debug\netcoreapp3.1\MyyDAL.runtimeconfig.json
+C:\c_sharp\MvcAssignment1.0\MyyDAL\bin\Debug\netcoreapp3.1\MyyDAL.runtimeconfig.dev.json
+C:\c_sharp\MvcAssignment1.0\MyyDAL\bin\Debug\netcoreapp3.1\MyyDAL.dll
+C:\c_sharp\MvcAssignment1.0\MyyDAL\bin\Debug\netcoreapp3.1\MyyDAL.pdb
+C:\c_sharp\MvcAssignment1.0\MyyDAL\bin\Debug\netcoreapp3.1\MyyEntity.dll
+C:\c_sharp\MvcAssignment1.0\MyyDAL\bin\Debug\netcoreapp3.1\MyyEntity.pdb
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.csproj.AssemblyReference.cache
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.AssemblyInfoInputs.cache
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.AssemblyInfo.cs
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.csproj.CoreCompileInputs.cache
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.csproj.CopyComplete
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.dll
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.pdb
+C:\c_sharp\MvcAssignment1.0\MyyDAL\obj\Debug\netcoreapp3.1\MyyDAL.genruntimeconfig.cache
